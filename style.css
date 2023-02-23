@@ -4,14 +4,27 @@
 
     box-sizing: border-box;
 }
+.Frame1{
+    position: relative;
+    width: 2063px;
+    height: 1127px;
 
-.home {
+    background: #FEBB41;
+
+}
+
+.FooLandingPage {
+    position: absolute;
     width: 1511px;
     height: 886px;
-    background-color: #fcfbf7;
+    background-color: #F4ECE1;
     padding-left: 87px;
     padding-right: 65px;
     padding-top: 39px;
+    background: linear-gradient(304.58deg, #F4ECE1 57.1%, #FCFBF7 145.5%);
+    border-radius: 24px;
+    left: 111px;
+    top: 44px;
 }
 .logo__name {
     font-weight: 600;
